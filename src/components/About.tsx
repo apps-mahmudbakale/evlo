@@ -222,7 +222,7 @@ export default function About() {
             </p>
           </div>
 
-          <div className="text-center p-8 bg-gradient-to-br from-secondary-50 to-blue-50 rounded-2xl">
+          <div className="text-center p-8 bg-gradient-to-br from-secondary-50 to-primary-50 rounded-2xl">
             <div className="w-16 h-16 bg-gradient-to-br from-secondary-500 to-secondary-600 rounded-xl flex items-center justify-center mx-auto mb-6 shadow-lg">
               <TrendingUp className="w-8 h-8 text-white" />
             </div>
@@ -232,8 +232,8 @@ export default function About() {
             </p>
           </div>
 
-          <div className="text-center p-8 bg-gradient-to-br from-blue-50 to-primary-50 rounded-2xl">
-            <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl flex items-center justify-center mx-auto mb-6 shadow-lg">
+          <div className="text-center p-8 bg-gradient-to-br from-primary-50 to-secondary-50 rounded-2xl">
+            <div className="w-16 h-16 bg-gradient-to-br from-primary-500 to-primary-600 rounded-xl flex items-center justify-center mx-auto mb-6 shadow-lg">
               <Users className="w-8 h-8 text-white" />
             </div>
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Our Commitment</h3>

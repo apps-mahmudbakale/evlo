@@ -1,5 +1,6 @@
 import { useState } from 'react';
-import { Menu, X, Phone, Mail, Clock, MapPin, Search, Cross } from 'lucide-react';
+import { Menu, X, Phone, Mail, Clock, MapPin, Search } from 'lucide-react';
+import logo from './logo2.png';
 import Hero from './components/Hero';
 import Products from './components/Products';
 import About from './components/About';
@@ -42,10 +43,7 @@ function App() {
           <div className="flex justify-between items-center">
 
             <div className="flex items-center gap-2">
-              <div className="bg-primary-600 p-2 rounded-lg">
-                <Cross className="w-6 h-6 text-white" />
-              </div>
-              <span className="text-2xl font-bold text-gray-900 tracking-tight">Pharmacy</span>
+              <img src={logo} alt="Pharmacy Logo" className="h-16 w-auto" />
             </div>
 
             <div className="hidden md:flex items-center gap-8">
@@ -125,7 +123,7 @@ function App() {
         </nav>
       </header>
 
-      <main className="pt-32">
+      <main className="pt-48">
         <section id="home">
           <Hero />
         </section>

@@ -142,7 +142,7 @@ export default function Hero() {
               </p>
             </div>
 
-            <div className="bg-gradient-to-br from-primary-50 to-blue-50 p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow">
+            <div className="bg-gradient-to-br from-primary-50 to-primary-100 p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow">
               <div className="w-14 h-14 bg-primary-100 rounded-lg flex items-center justify-center mb-4">
                 <Truck className="w-7 h-7 text-primary-600" />
               </div>
@@ -152,9 +152,9 @@ export default function Hero() {
               </p>
             </div>
 
-            <div className="bg-gradient-to-br from-blue-50 to-primary-50 p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow">
-              <div className="w-14 h-14 bg-blue-100 rounded-lg flex items-center justify-center mb-4">
-                <Award className="w-7 h-7 text-blue-600" />
+            <div className="bg-gradient-to-br from-primary-100 to-primary-50 p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow">
+              <div className="w-14 h-14 bg-primary-100 rounded-lg flex items-center justify-center mb-4">
+                <Award className="w-7 h-7 text-primary-600" />
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-2">Expert Support</h3>
               <p className="text-gray-600">

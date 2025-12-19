@@ -144,7 +144,7 @@ export default function Products() {
                   <div className="h-6 mb-4"></div>
                   <button
                     onClick={() => handleWhatsAppOrder(product.name)}
-                    className="w-full bg-gradient-to-r from-green-600 to-green-700 hover:from-green-700 hover:to-green-800 text-white py-3 rounded-lg font-semibold flex items-center justify-center gap-2 shadow-lg hover:shadow-xl transition-all"
+                    className="w-full bg-gradient-to-r from-primary-600 to-primary-700 hover:from-primary-700 hover:to-primary-800 text-white py-3 rounded-lg font-semibold flex items-center justify-center gap-2 shadow-lg hover:shadow-xl transition-all"
                   >
                     <svg
                       className="w-5 h-5"
@@ -170,7 +170,7 @@ export default function Products() {
           <div className="flex flex-wrap gap-4 justify-center">
             <button
               onClick={() => handleWhatsAppOrder('Bulk Order Inquiry')}
-              className="bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-lg font-semibold shadow-lg transition-all flex items-center gap-2"
+              className="bg-primary-600 hover:bg-primary-700 text-white px-8 py-4 rounded-lg font-semibold shadow-lg transition-all flex items-center gap-2"
             >
               <svg
                 className="w-5 h-5"
