@@ -45,7 +45,7 @@ export default function Contact() {
             <h3 className="text-xl font-bold text-gray-900 mb-2">Phone</h3>
             <p className="text-gray-600 mb-2">Call us for immediate assistance</p>
             <a href="tel:+2347048680000" className="text-primary-600 font-semibold hover:text-primary-700 transition-colors">
-              +234 704 868 0000
+              +234 703 811 9375
             </a>
           </div>
 
@@ -56,7 +56,7 @@ export default function Contact() {
             <h3 className="text-xl font-bold text-gray-900 mb-2">Email</h3>
             <p className="text-gray-600 mb-2">Send us your inquiries</p>
             <a href="mailto:info@pharmacy.com" className="text-primary-600 font-semibold hover:text-primary-700 transition-colors">
-              info@pharmacy.com
+              info@evlopharmacy.com
             </a>
           </div>
 
@@ -178,8 +178,8 @@ export default function Contact() {
                 <div>
                   <h3 className="text-xl font-bold text-gray-900 mb-2">Visit Our Office</h3>
                   <p className="text-gray-600 leading-relaxed">
-                    123 Health Street, Medical District<br />
-                    Central City, State 12345
+                    Plot 1135, Zone C<br />
+                    Opposite Apo Stadium
                   </p>
                 </div>
               </div>

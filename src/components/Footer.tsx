@@ -103,20 +103,20 @@ export default function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-white flex-shrink-0 mt-1" />
                 <span className="text-sm">
-                  123 Health Street, Medical District<br />
-                  Central City, State 12345
+                  Plot 1135, Zone C<br />
+                  Opposite Apo Stadium
                 </span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-white flex-shrink-0" />
                 <a href="tel:+15551234567" className="hover:text-primary-100 transition-colors">
-                  +234 704 868 0000
+                  +234 703 811 9375
                 </a>
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-white flex-shrink-0" />
                 <a href="mailto:info@medequip.com" className="hover:text-primary-100 transition-colors">
-                  info@pharmacy.com
+                  info@evlopharmacy.com
                 </a>
               </li>
             </ul>

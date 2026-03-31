@@ -29,12 +29,12 @@ function App() {
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="w-4 h-4" />
-                <span>+234 704 868 0000</span>
+                <span>+234 703 811 9375</span>
               </div>
             </div>
             <div className="flex items-center gap-2">
               <Mail className="w-4 h-4" />
-              <span>info@pharmacy.com</span>
+              <span>info@evlopharmacy.com</span>
             </div>
           </div>
         </div>
