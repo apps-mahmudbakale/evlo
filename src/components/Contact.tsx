@@ -43,8 +43,13 @@ export default function Contact() {
               <Phone className="w-8 h-8 text-primary-600" />
             </div>
             <h3 className="text-xl font-bold text-gray-900 mb-2">Phone</h3>
-            <p className="text-gray-600 mb-2">Call us for immediate assistance</p>
-            <a href="tel:+2347048680000" className="text-primary-600 font-semibold hover:text-primary-700 transition-colors">
+            <p className="text-gray-600 mb-2">Call or WhatsApp us for immediate assistance</p>
+            <a
+              href="https://wa.me/2347038119375"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-primary-600 font-semibold hover:text-primary-700 transition-colors"
+            >
               +234 703 811 9375
             </a>
           </div>

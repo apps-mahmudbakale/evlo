@@ -76,7 +76,7 @@ const products = [
   }
 ];
 
-const whatsappNumber = '1234567890';
+const whatsappNumber = '2347038119375';
 
 const handleWhatsAppOrder = (productName: string) => {
   const message = encodeURIComponent(
